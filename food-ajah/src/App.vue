@@ -108,7 +108,7 @@ export default {
               <div class="absolute w-[20px] h-[22px] top-[4px] right-[300px] 2xl:w-[20px] 2xl:h-[22px] 2xl:top-[4px] 2xl:right-[300px]">
                 <div class="relative h-[22px] 2xl:h-[22px]">
                   <font-awesome-icon icon="bag-shopping" size="xl" style="color: #000000;" />
-                  <div class="absolute w-[6px] h-[6px] top-[16px] left-[14px] 2xl:w-[6px] 2xl:h-[6px] 2xl:top-[16px] 2xl:left-[14px] bg-[#ff912b] rounded-[3px]" />
+                  <div class=" absolute w-[6px] h-[6px] top-[16px] left-[14px] 2xl:w-[6px] 2xl:h-[6px] 2xl:top-[16px] 2xl:left-[14px] bg-[#ff912b] rounded-[3px]" />
                 </div>
               </div>
               <div class="absolute w-[180px] h-[27px] top-0 left-[-50px] 2xl:w-[180px] 2xl:h-[27px] 2xl:top-0 2xl:left-0">
@@ -122,7 +122,7 @@ export default {
             </div>
           </div>
           <div class="absolute w-[165px] h-[48px] top-[1197px] left-0 2xl:w-[165px] 2xl:h-[48px] 2xl:top-[1197px] 2xl:left-0">
-            <div class="relative w-[163px] h-[48px] 2xl:w-[163px] 2xl:h-[48px] bg-[#ff912b] rounded-[69px] 2xl:rounded-[69px] shadow-[0px_20px_40px_#f4e1d0] 2xl:mt-8">
+            <div class="relative cursor-pointer w-[163px] h-[48px] 2xl:w-[163px] 2xl:h-[48px] bg-[#ff912b] rounded-[69px] 2xl:rounded-[69px] shadow-[0px_20px_40px_#f4e1d0] 2xl:mt-8">
               <div class="absolute w-[10px] h-[2px] top-[24px] left-[153px] rounded-[69px] 2xl:w-[10px] 2xl:h-[2px] 2xl:top-[24px] 2xl:left-[153px] 2xl:rounded-[69px] shadow-[0px_20px_40px_#f4e1d0]" />
               <div class="absolute h-[20px] top-[14px] left-[32px] 2xl:h-[20px] 2xl:top-[14px] 2xl:left-[32px] [font-family:'Poppins-Bold',Helvetica] font-bold text-white 2xl:text-[15px] tracking-[0] leading-[normal]">
                 Beli Sekarang
@@ -135,7 +135,7 @@ export default {
                 <font-awesome-icon icon="fa-solid fa-arrow-right" size="lg" style="color: #ffffff;" />
               </div>
             </div>
-            <div @click="increase" class=" cursor-pointer absolute w-[45px] h-[45px] top-[1300px] left-[457px] 2xl:w-[45px] 2xl:h-[45px] 2xl:top-[1300px] 2xl:left-[657px] bg-[#ff912b] rounded-full shadow-[0px_10px_20px_#f5ebe3]">
+            <div @click="increase" class=" cursor-pointer absolute w-[45px] h-[45px] top-[1300px] left-[457px] 2xl:w-[45px] 2xl:h-[45px] 2xl:top-[1300px] 2xl:left-[700px] bg-[#ff912b] rounded-full shadow-[0px_10px_20px_#f5ebe3]">
               <div class="ml-3 mt-3 2xl:ml-3 2xl:mt-3">
                 <font-awesome-icon icon="fa-solid fa-arrow-left" size="lg" style="color: #ffffff;" />
               </div>
